@@ -1,0 +1,30 @@
+.sc {
+	&__content {
+		position: relative;
+	}
+
+	&__link {
+		position: absolute;
+		left: -9999px;
+		resize: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	&__button {
+
+	}
+
+	&__popup {
+		display: none;
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+		padding: 15px 0;
+		text-align: center;
+		background: #0073aa;
+		left: 0;
+		color: #fff;
+		z-index: 99999;
+	}
+}
