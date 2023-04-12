@@ -2,7 +2,7 @@
 /*
 Plugin Name: 	Share That Cart
 Description: 	This plugin allows you to share your cart via link with others.
-Version: 		1.3.1
+Version: 		1.4.0
 Author:			Mateusz Styrna
 Author URI:		https://mateusz-styrna.pl/
 Plugin URI:		https://wordpress.org/plugins/share-that-cart/
@@ -10,7 +10,7 @@ Plugin URI:		https://wordpress.org/plugins/share-that-cart/
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
 if ( !defined( 'SC_VERSION' ) ) {
-    define( 'SC_VERSION', '1.0.1' );
+    define( 'SC_VERSION', '1.2.0' );
 }
 
 add_action( 'woocommerce_after_cart_contents', 'sc_button' );

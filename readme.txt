@@ -3,7 +3,7 @@ Contributors: Rider7991
 Tags: cart, ms, mateusz-styrna, share, sharing cart, share cart via link, link to cart
 Donate link: https://www.paypal.me/Rider7991
 Requires at least: 4.0
-Tested up to: 6.1
+Tested up to: 6.2
 Requires PHP: 7.0
 Stable tag: trunk
 License: GPLv2
